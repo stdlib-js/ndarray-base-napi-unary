@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/ndarray-base-napi-unary",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "C API for registering an N-API module exporting an ndarray interface for applying a unary callback to an input ndarray.",
   "license": "Apache-2.0",
   "author": {
